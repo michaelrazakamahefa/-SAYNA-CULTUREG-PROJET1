@@ -1,6 +1,6 @@
 <html>
     <head>
-        <h1>Bonjour</h1>
+        <h1>Bonjour,</h1>
     </head>
         <p>
             <ul>
